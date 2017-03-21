@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name         = 'TestCocoapod'
+    s.name         = 'TestCocoapodFanzhou'
     s.version      = '1.0.1'
     s.summary      = 'a component of photo browser on iOS'
     s.homepage     = 'https://github.com/KLFLJAMES/TestCocoapod'
